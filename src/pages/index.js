@@ -14,7 +14,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1>Proyecto React Numen</h1>
-      <p>Nuevo parrafo</p>
+      <p>New parrafo</p>
       <h1>Proyecto Numen React </h1>
       <h2> Subtitulo agregado para probar </h2>
       <h3>agregado por vero para probar</h3>
