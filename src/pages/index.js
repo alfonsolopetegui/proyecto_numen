@@ -16,7 +16,7 @@ export default function Home() {
       <h1>Proyecto React Numen</h1>
       <p>New parrafo</p>
       <h1>Proyecto Numen React </h1>
-      <h2> Subtitulo agregado para probar </h2>
+      <h2> Subtitulo agregado para probar! </h2>
       <h3>agregado por vero para probar</h3>
       <p>probando rama dev</p>
     </>
